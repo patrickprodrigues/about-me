@@ -25,6 +25,6 @@ Here are some of the technologies I enjoy working with:
 I'm always open to collaborating on interesting projects and connecting with fellow developers. Feel free to reach out to me via:
 
 - 📧 Email: patrickplrodrigues@outlook.pt
-- 💬 LinkedIn: (https://www.linkedin.com/in/patrickplrodrigues/)
+- 💬 LinkedIn: https://www.linkedin.com/in/patrickplrodrigues/
 
 Let's code and create amazing web experiences together! 👨‍💻🌐
